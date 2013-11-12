@@ -42,6 +42,7 @@ links:
 
 #prose online editing tool
 prose:
+    root: '_posts'
     siteurl: 'http://ahungryhipster.com'
     media: 'images'
     metadata:
@@ -50,6 +51,25 @@ prose:
             field:
               element: "hidden"  
               value: "post"
+          - name: "comments"
+            field:
+              element: "hidden"
+              value: "true"
+          - name: "category"
+            field:
+              element: "multiselect"
+              label: "Select Category"
+              placeholder: "Choose Tags"
+              options:
+              - name: "Apples"
+                value: "apples"
+              - name: "Bananas"
+                value: "bananas"
+          - name: "tag"
+            field:
+              element: "text"
+              label: "Tag"
+              value: ""
               
               
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
