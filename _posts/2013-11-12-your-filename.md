@@ -5,7 +5,8 @@ layout: post
 published: true
 title: Untitled
 image: 
-  feature: biscuit.jpg
+  - feature: biscuit.jpg
+  - "[object Object]"
 description: blahblah
 ---
 
