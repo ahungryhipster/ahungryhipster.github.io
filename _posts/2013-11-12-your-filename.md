@@ -2,8 +2,8 @@
 category: articles
 comments: "true"
 layout: post
-published: false
-title: ""
+published: true
+title: Untitled
 image: null
 ---
 
