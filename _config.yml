@@ -74,7 +74,6 @@ prose:
               element: "text"
               label: "Featured Image"
               help: "feature: imagename.jpg"
-              value: ""
               
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
