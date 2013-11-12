@@ -59,7 +59,12 @@ prose:
             field:
               element: "hidden"
               value: "articles"
-      
+          - name: "image"
+          	field: 
+              element: "text"
+              help: "Enter: \\"feature:\\" + \\"name of image file.jpg\\" "
+              placeholder:"thisisthefeaturedpicture.jpg"
+              type: "text"
           - name: "tag"
             field:
               element: "text"
