@@ -63,7 +63,18 @@ prose:
               element: "text"
               label: "Tag"
               value: ""
-              
+          - name: "image"
+            field:
+              element: "text"
+              label: "Feature Image Name"
+              value:""
+          - name: "publish"
+            field:
+              element: "button"
+              label: "Publish Now?"
+              help: "If not, it'll be an unpublished draft."
+              on: "yes"
+              off: "no"
               
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
