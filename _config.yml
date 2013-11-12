@@ -57,13 +57,7 @@ prose:
               value: "true"
           - name: "category"
             field:
-              element: "multiselect"
-              label: "Select Category"
-              options:
-              - name: "Article"
-                value: "articless"
-              - name: "Restaurant"
-                value: "restaurants"
+                value: "articles"
           - name: "tag"
             field:
               element: "text"
