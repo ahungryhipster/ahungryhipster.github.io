@@ -58,16 +58,17 @@ prose:
           - name: "category"
             field:
                 value: "articles"
+                
+              - name: "image"
+                    field:
+                      element: "text"
+                      label: "Featured Image Name"
+                      value: ""
           - name: "tag"
             field:
               element: "text"
               label: "Tag"
-              value: ""
-          - name: "image"
-                field:
-                  element: "text"
-                  label: "Featured Image Name"
-                  value: ""              
+              value: ""            
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
 future:      true
