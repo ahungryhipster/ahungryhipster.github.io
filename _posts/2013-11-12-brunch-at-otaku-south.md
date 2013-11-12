@@ -2,7 +2,7 @@
 category: articles
 comments: "true"
 layout: post
-published: false
+published: true
 title: Brunch at Otaku South
 image: null
 ---
