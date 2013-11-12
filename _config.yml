@@ -61,7 +61,7 @@ prose:
           - name: "title"
             field:
               element: "text"
-              label: "Article"
+              label: "Article Title"
               value: ""
           - name: "tag"
             field:
