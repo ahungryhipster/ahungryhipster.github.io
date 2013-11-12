@@ -26,7 +26,7 @@ Desciption
 A short description about your article. It'll appear in things like Twitter Cards, when other people link your site. It could just be the first sentence of your article, you can then add dots ...
 
 
-Featured Images
+Featured Image
 First, drag and drop any image you want to be featured inside your article. Make sure it's less than 1MB, or less it'll be a pain and clog up everything.
 After you're done, it should look something like this once it's uploaded: 
 
@@ -37,16 +37,13 @@ Once you've drag and dropped, copy the file name because we'll be needing it for
 Then: 
 	1. Go to your article
 	2. Open the Meta Data box
-	3. Go to Featured Images
-	4. Type in "feature: photo.jpg". If your file extension is 			anything other than .jpg, just replace it with whatever it is.
+	3. Go to Featured Image
+	4. Type/paste in "photo.jpg". If your file extension is 			anything other than .jpg, just replace it with whatever it is.
 	5. Commit and make sure the featured image is there like this: 
 
-		image:
-			feature: photo.jpg
+		image: photo.jpg
 
 	NOT -> image: null 
 		(that means there's no featured image)
-
-	The trick is to unpublish it, then add the metadata, then click 	publish again, then commit.
 
 6. Enjoy!
