@@ -57,12 +57,9 @@ prose:
               value: "true"
           - name: "category"
             field:
+              element: "hidden"
               value: "articles"
-          - name: "title"
-            field:
-              element: "text"
-              label: "Article Title"
-              value: ""
+      
           - name: "tag"
             field:
               element: "text"
