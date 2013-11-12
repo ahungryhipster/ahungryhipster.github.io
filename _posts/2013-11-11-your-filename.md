@@ -2,8 +2,6 @@
 comments: "true"
 layout: post
 published: true
-category: 
-  - apples
 tag: Best tag evurrrrr
 ---
 
