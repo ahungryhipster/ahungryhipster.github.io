@@ -1,10 +1,8 @@
 ---
 comments: "true"
 layout: post
-published: false
+published: true
 tag: Otaku South Ramen Nashville
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+So this past Sunday, my boyfriend and I went to eat Otaku South for the second time. 
