@@ -59,7 +59,6 @@ prose:
             field:
               element: "multiselect"
               label: "Select Category"
-              placeholder: "Article"
               options:
               - name: "Article"
                 value: "articless"
