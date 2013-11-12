@@ -68,18 +68,19 @@ prose:
               element: "text"
               help: "Separate with commas"
               label: "Tag"
-          - name: "description"
-            field:
-              element: "text"
-              help: "For links like twitter cards"
-              label: "Description"
-              value: ''
           - name: "image"
             field:
               element: "text"
               help: "feature: imagename.jpg"
               label: "Featured"
               value: ""
+          - name: "description"
+            field:
+              element: "text"
+              help: "For links like twitter cards"
+              label: "Description"
+              value: ''
+
               
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
