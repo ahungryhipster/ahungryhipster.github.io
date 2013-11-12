@@ -68,7 +68,6 @@ prose:
               element: "textarea"
               help: "[keyword1, keyword2, ...]"
               label: "Tag"
-              value: ''
           - name: "description"
             field:
               element: "text"
