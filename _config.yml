@@ -42,7 +42,7 @@ links:
 
 #prose online editing tool
 prose:
-    root: '_posts'
+    rooturl: '_posts'
     siteurl: 'http://www.ahungryhipster.com'
     media: 'images'
     metadata:
