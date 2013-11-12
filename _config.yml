@@ -65,7 +65,7 @@ prose:
              label: "Title"
           - name: "tag"
             field:
-              element: "textarea"
+              element: "text"
               help: "[keyword1, keyword2, ...]"
               label: "Tag"
           - name: "description"
