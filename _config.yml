@@ -62,8 +62,8 @@ prose:
           - name: "image"
           	field: 
               element: "text"
-              help: "Enter: feature: + name of image file.jpg "
-              placeholder:"thisisthefeaturedpicture.jpg"
+              help: "feature: nameOfImageFile.jpg "
+              placeholder:"thisIsTheFeaturedPicture.jpg"
               type: "text"
           - name: "tag"
             field:
