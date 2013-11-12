@@ -58,12 +58,6 @@ prose:
           - name: "category"
             field:
                 value: "articles"
-                
-              - name: "image"
-                    field:
-                      element: "text"
-                      label: "test"
-                      value: ""
           - name: "tag"
             field:
               element: "text"
