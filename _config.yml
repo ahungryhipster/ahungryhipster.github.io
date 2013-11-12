@@ -63,6 +63,7 @@ prose:
             field:
               element: "text"
               label: "Article Title"
+              placeholder: "New Post"
               value: ""
           - name: "tag"
             field:
