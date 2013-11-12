@@ -59,12 +59,12 @@ prose:
             field:
               element: "multiselect"
               label: "Select Category"
-              placeholder: "Choose Tags"
+              placeholder: "Article"
               options:
-              - name: "Apples"
-                value: "apples"
-              - name: "Bananas"
-                value: "bananas"
+              - name: "Article"
+                value: "articless"
+              - name: "Restaurant"
+                value: "restaurants"
           - name: "tag"
             field:
               element: "text"
