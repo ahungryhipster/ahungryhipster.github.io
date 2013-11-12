@@ -64,11 +64,10 @@ prose:
               label: "Tag"
               value: ""
           - name: "image"
-            field:
-              element: "text"
-              label: "Featured Image Name"
-              value:""
-              
+                field:
+                  element: "text"
+                  label: "Featured Image Name"
+                  value: ""              
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
 future:      true
