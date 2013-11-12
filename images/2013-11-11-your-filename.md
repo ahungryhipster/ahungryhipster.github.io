@@ -1,1 +1,0 @@
-![](/images/delete.jpg)
