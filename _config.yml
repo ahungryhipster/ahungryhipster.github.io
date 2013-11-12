@@ -73,7 +73,7 @@ prose:
               element: "text"
               help: "imagename.jpg"
               label: "Featured Image"
-              value: null
+              value: 'null'
           - name: "description"
             field:
               element: "text"
