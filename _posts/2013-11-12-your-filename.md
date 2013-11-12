@@ -2,8 +2,10 @@
 category: articles
 comments: "true"
 layout: post
-published: false
-title: ""
+published: true
+title: Untitled
+image: 
+  feature: biscuit.jpg
 ---
 
 ## A New Post
