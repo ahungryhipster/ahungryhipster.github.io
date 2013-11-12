@@ -63,7 +63,6 @@ prose:
             field:
              element: "text"
              label: "Title"
-             value: ""
           - name: "tag"
             field:
               element: "text"
@@ -71,7 +70,7 @@ prose:
               value: ""
           - name: "image"
             field:
-              element: "text"
+              element: "textarea"
               label: "Featured Image"
               help: "feature: imagename.jpg"
               
