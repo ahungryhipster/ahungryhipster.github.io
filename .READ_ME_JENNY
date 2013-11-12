@@ -1,0 +1,19 @@
+Hi baby,
+
+Here's the instructions on how to use this site to edit your blog.
+
+1. Go to _posts
+2. Create a "New File"
+3. Edit the title (Note: The way this platform reads the title is 
+	"YYYY-MM-DD-blah-blah-blah.md"
+   It will NOT post the file if there is a space in the title instead of a dash)
+4. Edit the body however you see fit.
+	-h2 means header 2, makes everything after the "##" bigger, until enter is pressed
+    -h3 means header 3, same thing as header 2, but smaller.
+    -the next button is Anchor Link, 
+
+
+2013-11-11-your-filename.md
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
