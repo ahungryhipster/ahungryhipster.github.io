@@ -42,7 +42,7 @@ links:
 
 #prose online editing tool
 prose:
-    rooturl: '_posts'
+    root: '_posts'
     siteurl: 'http://www.ahungryhipster.com'
     media: 'images'
     metadata:
@@ -68,6 +68,11 @@ prose:
             field:
               element: "text"
               label: "Tag"
+              value: ""
+          - name: "image"
+            field:
+              element: "textarea"
+              label: "Featured Image"
               value: ""
               
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
