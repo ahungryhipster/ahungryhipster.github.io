@@ -71,7 +71,7 @@ prose:
               value: ""
           - name: "image"
             field:
-              element: "textarea"
+              element: "text"
               label: "Featured Image"
               help: "feature: imagename.jpg"
               
