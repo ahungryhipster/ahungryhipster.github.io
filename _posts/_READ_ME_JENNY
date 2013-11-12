@@ -1,0 +1,17 @@
+---
+category: articles
+comments: "true"
+layout: post
+published: false
+image: null
+---
+
+Hi baby,
+
+Here's the instructions on how to use this site to edit your blog.
+
+1. Create a "New File"
+2. Edit the title. 
+3. Edit the body however you see fit.
+4. Edit the Meta Data. Note, if you don't want a featured image, just leave it blank. Go to the _Featured_Images file for more.
+5. Save and commit, it'll automatically be drafted the first time you save. In order to actually publish it you have to go back, reopen the file, then click the Unpublished button.
