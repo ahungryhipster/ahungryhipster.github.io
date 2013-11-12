@@ -63,8 +63,7 @@ prose:
               element: "text"
               label: "Tag"
               value: ""
-          - name: "image"
-          - name: "feature"
+          - name: "image:feature"
             field:
               element: "text"
               label: "Featured Image Name"
