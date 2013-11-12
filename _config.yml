@@ -65,9 +65,16 @@ prose:
              label: "Title"
           - name: "tag"
             field:
-              element: "text"
+              element: "textarea"
+              help: "[keyword1, keyword2, ...]"
               label: "Tag"
-              value: ""
+              value: ''
+          - name: "description"
+            field:
+              element: "text"
+              help: "For links like twitter cards"
+              label: "Description"
+              value: ''
           - name: "image"
             field:
               element: "textarea"
