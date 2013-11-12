@@ -57,12 +57,17 @@ prose:
               value: "true"
           - name: "category"
             field:
-                value: "articles"
+              value: "articles"
+          - name: "title"
+            field:
+              element: "text"
+              label: "Article"
+              value: ""
           - name: "tag"
             field:
               element: "text"
               label: "Tag"
-              value: ""            
+              value: ""
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
 future:      true
