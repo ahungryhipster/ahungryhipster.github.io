@@ -61,7 +61,9 @@ prose:
               value: "articles"
           - name: "image"
           	field: 
-              element: "text"
+              element: "textarea"
+              help: "feature: nameOfImageFile.jpg "
+              placeholder:"thisIsTheFeaturedPicture.jpg"
               type: "text"
           - name: "tag"
             field:
