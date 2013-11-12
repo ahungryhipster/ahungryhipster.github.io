@@ -2,7 +2,7 @@
 category: articles
 comments: "true"
 layout: post
-published: false
+published: true
 title: "Hello! This is only a test."
 image: "feature: photo-5.jpg"
 tag: blah
