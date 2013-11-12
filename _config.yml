@@ -71,7 +71,6 @@ prose:
           - name: "image"
             field:
               element: "text"
-              help: "feature: imagename.jpg"
               label: "Featured"
               value: ''
           - name: "description"
