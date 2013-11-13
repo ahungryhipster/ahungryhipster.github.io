@@ -11,4 +11,4 @@ image: about.png
 
 \-John 
 
-*You can write to Jenn at* <a href="mailto:jenn@ahungryhipster.com?Subject=Hello!" target="_top">jenn@ahungryhipster.com</a>
+*You can write to Jennifer at* <a href="mailto:jenn@ahungryhipster.com?Subject=Hello!" target="_top">jenn@ahungryhipster.com</a>
