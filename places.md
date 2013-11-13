@@ -6,8 +6,6 @@ tags: [Jennifer, Kim, hipster, hungry, nashville, restaurant, what, to, eat, do]
 modified: 2013-09-13
 image: barista.jpg
 ---
-<hr>
-
 >Restaurants I Enjoy
 
 <a href="http://cityhousenashville.com">City House</a>
@@ -40,7 +38,7 @@ image: barista.jpg
 
 <hr>
 
->Best Specialties 
+>Best of Specialties 
 
 <a href="http://www.baristaparlor.com">Barista Parlor</a>
 
@@ -50,3 +48,7 @@ image: barista.jpg
 
 <a href="http://thesweetstash.com">The Sweet Stash</a>
 
+<hr>
+>Drinks
+
+<a href="http://www.hollandhousebarandrefuge.com">Holland House</a>
