@@ -51,6 +51,7 @@ image: barista.jpg
 <a href="http://thesweetstash.com">The Sweet Stash</a>
 
 <br>
+
 >Drinks
 
 <a href="http://www.hollandhousebarandrefuge.com">Holland House</a>
