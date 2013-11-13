@@ -7,7 +7,7 @@ modified: 2013-09-13
 image: barista.jpg
 ---
 
-Restaurants I enjoy:
+>Restaurants
 
 <a href="http://www.baristaparlor.com">Barista Parlor</a>
 
