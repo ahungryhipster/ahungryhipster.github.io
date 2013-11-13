@@ -53,10 +53,9 @@ prose:
               value: "post"
           - name: "comments"
             field:
-              element: "button"
+              element: "checkbox"
               label: "Comments Switch"
-              on: true
-              off: false
+              value: true
           - name: "category"
             field:
               element: "hidden"
