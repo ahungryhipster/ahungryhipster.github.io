@@ -19,7 +19,7 @@ I didn't _love_ any of the bites. The Tsukemono Pickles is just a pickled plate,
 If I had to choose a favorite, it would be the Okonomiyaki with Kara-Age, simply because of the Kara-Age. It's basically Japanese fried chicken and was quite tasty.
 
 ##RAMEN
-I would preference the ramens I've tried so far in this order: Tonkotsu Ramen, Chicken Ramen, and the Pork Szechuan Ramen. However, I would only order the Tonkotsu Ramen again. The pork was excellent and the broth wasn't too heavy. The Chicken Ramen was very light but when I think of ramen, I think of something a little more savory. The Pork Szechuan Ramen didn't have enough broth for me-- the soup is a significant part of the dish for me, so I didn't enjoy it as much as I thought I would have. 
+I would preference the ramens I've tried so far in this order: Tonkotsu Ramen, Chicken Ramen, and the Pork Szechuan Ramen. However, I would only order the Tonkotsu Ramen again. The pork was excellent and the broth wasn't too heavy. The Chicken Ramen was very light but when I think of ramen, I think of something a little more savory. The Pork Szechuan Ramen didn't have enough broth-- the soup is a significant part of the dish for me, so I didn't enjoy it as much as I thought I would have. 
 
 ![IMG_8828.JPG](/images/IMG_8828.JPG)
 
