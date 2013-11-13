@@ -9,7 +9,7 @@ image: barista.jpg
 >Restaurants I Enjoy
 
 <p>
-    <span>
+    <span class="align-left">
         <a href="http://www.yelp.com/biz/back-to-cuba-nashville">Back to Cuba</a>
 
 		<a href="http://www.burger-up.com">Burger Up</a>
@@ -34,6 +34,7 @@ image: barista.jpg
 
 		<a href="http://www.yelp.com/biz/i-dream-of-weenie-nashville">I Dream of Weenie</a>
     </span>
+
     <span class="align-right">
 
 		<a href="http://www.kotosushibar.com">Koto Sushi</a>
