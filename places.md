@@ -21,7 +21,7 @@ image: barista.jpg
 | <a href="http://www.hattieb.com">Hattie B's</a>   | <a href="http://themadplatterrestaurant.com">The Mad Platter</a>   |
 | <a href="http://www.husknashville.com">Husk</a>   | <a href="http://thesouthernnashville.com">The Southern</a>   |
 | <a href="http://www.yelp.com/biz/i-dream-of-weenie-nashville">I Dream of Weenie</a>   |    |
-{: rules="groups" :style="width:100%"}
+{: rules="groups" : style="width:100%"}
 
         
 
