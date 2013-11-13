@@ -12,4 +12,4 @@ image: about.png
 >
 >John 
 
-*You can write to Jennifer at* <a href="mailto:jenn@ahungryhipster.com?Subject=Hello!" target="_top">jenn@ahungryhipster.com</a>
+*You can write to Jennifer at* <a href="mailto:jenn@ahungryhipster.com?Subject=Hello!" target="_top">jenn@ahungryhipster.com</a> or tweet <a href="http://twitter.com/ahungryhipster">@ahungryhipster</a>
