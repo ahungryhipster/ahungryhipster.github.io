@@ -36,7 +36,7 @@ image: barista.jpg
 
 <a href="http://pomodoroeast.com">Pomodoro East</a>
 
-<hr>
+<hr ALIGN="LEFT">
 
 >Best of Specialties 
 
@@ -48,7 +48,7 @@ image: barista.jpg
 
 <a href="http://thesweetstash.com">The Sweet Stash</a>
 
-<hr>
+<hr ALIGN="LEFT">
 >Drinks
 
 <a href="http://www.hollandhousebarandrefuge.com">Holland House</a>
