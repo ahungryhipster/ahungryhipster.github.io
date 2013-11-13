@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /places/index.html
-title: Places
+title: ""
 tags: [Jennifer, Kim, hipster, hungry, nashville, restaurant, what, to, eat, do]
 modified: 2013-09-13
 image: barista.jpg
