@@ -33,8 +33,8 @@ bing_verify:
 links:
   - title: Home
     url: /
-  - title: Restaurants
-    url: /restaurants
+  - title: Places
+    url: /places
   - title: About
     url: /about
   - title: Articles
