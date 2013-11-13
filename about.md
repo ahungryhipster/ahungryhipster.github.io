@@ -13,4 +13,4 @@ image: about.png
 >
 >John 
 
-*Contact Jennifer at* <a href="mailto:jenn@ahungryhipster.com?Subject=Hello!" target="_top">jenn@ahungryhipster.com</a> or <a href="http://twitter.com/ahungryhipster">@ahungryhipster</a>
+*Contact Jennifer at* <a href="mailto:jenn@ahungryhipster.com?Subject=Hello!" target="_top">jenn@ahungryhipster.com</a> *or* <a href="http://twitter.com/ahungryhipster">@ahungryhipster</a>
