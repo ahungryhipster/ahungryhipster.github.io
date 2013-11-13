@@ -4,7 +4,7 @@ layout: post
 comments: true
 published: true
 title: Brunch at Otaku South
-image: Otaku South.jpg
+image: OtakuSouth.jpg
 tag: "Nashville, Ramen, Otaku South, Brunch"
 description: "So this past Sunday, my boyfriend and I went to eat Otaku South for the second time. ..."
 ---
@@ -33,5 +33,3 @@ Follow their Twitter account [@OtakuSouth](https://twitter.com/OtakuSouth) for t
 
 ##WHAT TO GET
 1. Tonkotsu Ramen
-
-
