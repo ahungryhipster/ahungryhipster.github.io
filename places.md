@@ -10,7 +10,7 @@ image: barista.jpg
 
 <a href="http://cityhousenashville.com">City House</a>
 
-<a href="http://www.coffeelunchnashville.com" align=left>Coffee, Lunch</a>
+<a href="http://www.coffeelunchnashville.com">Coffee, Lunch</a>
 
 <a href="http://fivepointspizza.com">Five Points</a>
 
