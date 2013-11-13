@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: About Me
-tags: [Jennifer, Kim, hipster, hungry, about]
+tags: [Jennifer, Kim, hipster, hungry, about, nashville]
 modified: 2013-09-13
 image: about.png
 ---
