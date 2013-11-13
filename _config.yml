@@ -3,8 +3,12 @@ description:      Always leave room for dessert.
 logo:             site-logo.png
 disqus_shortname: ahungryhipster
 search:           true
+
+name:             A Hungry Hipster
+
 #Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://ahungryhipster.com
+
 # Owner/author information
 owner:
   name:           Jennifer Kim
