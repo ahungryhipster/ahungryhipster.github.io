@@ -2,7 +2,7 @@
 category: articles
 layout: post
 comments: true
-published: true
+published: false
 title: Untitled
 image: ""
 ---
@@ -15,4 +15,3 @@ Our first visit we tried the Tsukemono Pickles, Chicken Ramen, and the Pork Szec
 I didn't __love__ any of the bites. The Tsukemono Pickles is just a pickled plate, the Daigaku Imo was described to me as similar to french fries with "a taste of the sea," and the Okonomiyaki with Kara-Age is pictured below
 
 ![IMG_8830.JPG](/images/IMG_8830.JPG)
-
