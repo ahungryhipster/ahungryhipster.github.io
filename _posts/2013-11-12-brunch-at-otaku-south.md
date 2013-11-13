@@ -7,7 +7,7 @@ title: Untitled
 image: ""
 ---
 
-So this past Sunday, my boyfriend and I went to eat Otaku South for the second time. 
+So this past Sunday, my boyfriend and I went to eat [Otaku South](http://otakusouth.com) for the second time. 
 
 Our first visit we tried the Tsukemono Pickles, Chicken Ramen, and the Pork Szechuan Ramen. Their menu changes regularly so this past Sunday we ordered Okonomiyaki with Kara-Age, Daigaku Imo, and the Tonkotsu Ramen. We're a big fan of ramen in general. Often times, we end up cooking up one of those 35 cent Maruchan Chicken Ramen packs in chicken broth with hot pepper flakes and lots of green onions. So once we heard about Otaku South, it immediately went on our list of restaurants to try. 
 
