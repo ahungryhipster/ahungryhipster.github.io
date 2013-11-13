@@ -55,8 +55,8 @@ prose:
             field:
               element: "button"
               label: "Comments Switch"
-              on: "true"
-              off: "false"
+              on: true
+              off: false
           - name: "category"
             field:
               element: "hidden"
