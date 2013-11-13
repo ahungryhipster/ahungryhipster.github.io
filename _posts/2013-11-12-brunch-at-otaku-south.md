@@ -4,7 +4,8 @@ layout: post
 comments: true
 published: false
 title: Untitled
-image: ""
+image: Otaku South.jpg
+tag: "Nashville, Ramen, Otaku South, Brunch"
 ---
 
 So this past Sunday, my boyfriend and I went to eat [Otaku South](http://otakusouth.com) for the second time. 
@@ -23,4 +24,4 @@ I would preference the ramens I've tried so far in this order: Tonkotsu Ramen, C
 
 ![IMG_8828.JPG](/images/IMG_8828.JPG)
 
-Otaku South does a great job in terms of presentation. Although it is only a pop up restaurant, it's obvious they put a lot of effort into portraying what they believe ramen is about. Nashville doesn't have a lot of ethnic food but I think Otaku South is trying to break that barrier. I mean, where else can I find ramen that doesn't come from a 35 cent pack anyway? 
+Otaku South does a great job in terms of presentation. Although it is only a pop up restaurant, it's obvious they put a lot of effort into portraying what they believe ramen is about. Nashville doesn't have a lot of ethnic food but I think Otaku South is trying to break that barrier. I mean, where else can I find ramen that doesn't come from a 35 cent pack anyway? ![Otaku South.jpg](/images/Otaku South.jpg)
