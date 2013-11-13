@@ -37,8 +37,8 @@ image: barista.jpg
 
 <a href="http://pomodoroeast.com">Pomodoro East</a>
 
+<hr>
 
- 
 >Best Specialties 
 
 <a href="http://www.baristaparlor.com">Barista Parlor</a>
