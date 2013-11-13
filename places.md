@@ -28,13 +28,15 @@ image: barista.jpg
 
 <a href="http://www.mitchelldeli.com">Mitchell's</a>
 
+<a href="http://pomodoroeast.com">Pomodoro East</a>
+
 <a href="http://rolfanddaughters.com">Rolf and Daughters</a>
 
 <a href="https://thecatbirdseatrestaurant.com">The Catbird Seat</a>
 
 <a href="http://themadplatterrestaurant.com">The Mad Platter</a>
 
-<a href="http://pomodoroeast.com">Pomodoro East</a>
+<a href="http://thesouthernnashville.com">The Southern</a>
 
 <br>
 
