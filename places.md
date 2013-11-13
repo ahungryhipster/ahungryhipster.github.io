@@ -21,7 +21,7 @@ image: barista.jpg
 | <a href="http://www.hattieb.com">Hattie B's</a>   | <a href="http://themadplatterrestaurant.com">The Mad Platter</a>   |
 | <a href="http://www.husknashville.com">Husk</a>   | <a href="http://thesouthernnashville.com">The Southern</a>   |
 | <a href="http://www.yelp.com/biz/i-dream-of-weenie-nashville">I Dream of Weenie</a>   |    |
-{: rules="groups" style="width:500px"}
+{: rules="groups" style="width:93%"}
 
         
 
@@ -38,4 +38,4 @@ image: barista.jpg
 | <a href="http://www.thejuicenashville.com">Juice</a>   | <a href="http://www.thepiedpipercreamery.com">The Pied Piper</a>   |
 | <a href="http://www.yelp.com/biz/las-paletas-gourmet-popsicles-nashville">Las Paletas</a>   | <a href="http://www.trubeehoney.com">TruBee Honey</a>   |
 | <a href="http://www.lazzaroli.com">Lazzaroli</a>   |    |
-{: rules="groups" style="width:500px"}
+{: rules="groups" style="width:100%"}
