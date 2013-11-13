@@ -6,6 +6,7 @@ published: false
 title: Untitled
 image: Otaku South.jpg
 tag: "Nashville, Ramen, Otaku South, Brunch"
+description: "So this past Sunday, my boyfriend and I went to eat Otaku South for the second time. ..."
 ---
 
 So this past Sunday, my boyfriend and I went to eat [Otaku South](http://otakusouth.com) for the second time. 
