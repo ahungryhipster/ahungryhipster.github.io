@@ -19,6 +19,8 @@ image: barista.jpg
 
 <a href="http://gabbysburgersandfries.com">Gabby's Burgers</a>
 
+<a href="http://www.hattieb.com">Hattie B's</a>
+
 <a href="http://www.husknashville.com">Husk</a>
 
 <a href="http://www.yelp.com/biz/i-dream-of-weenie-nashville">I Dream of Weenie</a>
