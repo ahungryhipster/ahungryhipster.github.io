@@ -8,7 +8,7 @@ image: barista.jpg
 ---
 >Restaurants I Enjoy
 
-|:--------|:-------:|
+|:---------------|:-------:|
 | <a href="http://www.yelp.com/biz/back-to-cuba-nashville">Back to Cuba</a>   | 	<a href="http://www.kotosushibar.com">	Koto Sushi</a>   |
 | <a href="http://www.burger-up.com">Burger Up</a>   | 	<a href="http://www.marcheartisanfoods.com">Marche</a>   |
 | <a href="http://caffenonna.com">Caffe Nonna</a>   | 	<a href="http://www.mitchelldeli.com">Mitchell's Delicatessen</a>   |
