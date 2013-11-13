@@ -2,7 +2,7 @@
 category: articles
 layout: post
 comments: true
-published: false
+published: true
 title: Brunch at Otaku South
 image: Otaku South.jpg
 tag: "Nashville, Ramen, Otaku South, Brunch"
