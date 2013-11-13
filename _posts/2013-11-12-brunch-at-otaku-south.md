@@ -1,7 +1,7 @@
 ---
 category: articles
 layout: post
-comments: false
+comments: true
 published: true
 title: Brunch at Otaku South
 image: ""
