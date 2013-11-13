@@ -38,4 +38,4 @@ image: barista.jpg
 | <a href="http://www.thejuicenashville.com">Juice</a>   | <a href="http://www.thepiedpipercreamery.com">The Pied Piper</a>   |
 | <a href="http://www.yelp.com/biz/las-paletas-gourmet-popsicles-nashville">Las Paletas</a>   | <a href="http://www.trubeehoney.com">TruBee Honey</a>   |
 | <a href="http://www.lazzaroli.com">Lazzaroli</a>   |    |
-{: rules="groups"}
+{: rules="groups" style="width:100%"}
