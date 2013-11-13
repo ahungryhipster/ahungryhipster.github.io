@@ -26,6 +26,10 @@ I would preference the ramens I've tried so far in this order: Tonkotsu Ramen, C
 
 Otaku South does a great job in terms of presentation. Although it is only a pop up restaurant, it's obvious they put a lot of effort into portraying what they believe ramen is about. Nashville doesn't have a lot of ethnic food but I think Otaku South is trying to break that barrier. I mean, where else can I find ramen that doesn't come from a 35 cent pack anyway?
 
+##WHEN & WHERE
+Regularly, they're at [The Farmer's Market](http://nashvillefarmersmarket.org) 6-9PM every Wednesday and at [Sloco](https://slocolocal.com) every Thursday 5:30-8PM. 
+Follow their Twitter account [@OtakuSouth](https://twitter.com/OtakuSouth) for their next pop up. 
+
 ##WHAT TO GET
 1. Tonkotsu Ramen
 
