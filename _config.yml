@@ -54,7 +54,7 @@ prose:
           - name: "comments"
             field:
               element: "checkbox"
-              label: "Comments Switch"
+              label: "Comments?"
               value: true
           - name: "category"
             field:
