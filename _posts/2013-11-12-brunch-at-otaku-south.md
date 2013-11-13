@@ -3,7 +3,7 @@ category: articles
 layout: post
 comments: true
 published: false
-title: Untitled
+title: Brunch at Otaku South
 image: Otaku South.jpg
 tag: "Nashville, Ramen, Otaku South, Brunch"
 description: "So this past Sunday, my boyfriend and I went to eat Otaku South for the second time. ..."
