@@ -4,7 +4,7 @@ layout: post
 published: false
 title: "Hi John, I Love You."
 comments: true
-image: annivblog.jpg
+image: Annivblog.jpg
 ---
 
 Happy one year anniversary, love!
