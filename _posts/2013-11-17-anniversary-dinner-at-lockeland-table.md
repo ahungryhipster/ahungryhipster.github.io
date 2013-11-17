@@ -19,4 +19,4 @@ I had previously tweeted at @clarkatclark, "pizza ninja" at Lockeland Table, and
 If you love Lockeland Table, consider the pop up dinner one of the chefs, Chris Mat Clark, and ___ from Coffee, Lunch are hosting 
 
 Although we didn't have the privacy we wanted, we enjoyed our dinner very much. 
-Make a reservation. Please. 
+Make a reservation. Please.
