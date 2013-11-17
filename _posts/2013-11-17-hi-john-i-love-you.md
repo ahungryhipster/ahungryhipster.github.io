@@ -5,6 +5,7 @@ published: false
 title: "Hi John, I Love You."
 comments: true
 image: Annivblog.jpg
+tag: "Best, Boyfriend, Ever"
 ---
 
 Happy one year anniversary, love!
