@@ -4,6 +4,7 @@ layout: post
 published: false
 title: "I Love You "
 comments: true
+image: Annivblog.jpg
 ---
 
 Happy one year anniversary, love!
