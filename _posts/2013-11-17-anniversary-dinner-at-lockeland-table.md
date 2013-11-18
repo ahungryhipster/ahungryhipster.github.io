@@ -23,7 +23,7 @@ We ordered the grilled Hereford NY strip with chimichurri and it was cooked to p
 
 ![NYSTRIPLT.jpg](/images/NYSTRIPLT.jpg)
 
-We also ordered the Potato & Taragon Gnocchi. It was definitely a unique gnocchi dish, mostly because of its house made boursin cream sauce. I enjoyed it a lot, but don't expect your standard Italian gnocchi dish. The Tennshootoe (salted ham) was a great touch to the dish, but all in all it ended to be a little too salty for me.
+We also ordered the Potato & Taragon Gnocchi. It was definitely a unique gnocchi dish, mostly because of its house made boursin cream sauce. I enjoyed it a lot, but don't expect your standard Italian gnocchi. The Tennshootoe (salted ham) was a great touch, but all in all the dish ended to be a little too salty for me.
 ![GNOCCHILT.jpg](/images/GNOCCHILT.jpg)
 
 ##Always leave room for dessert
