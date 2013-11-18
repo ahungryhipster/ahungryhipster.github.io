@@ -12,12 +12,7 @@
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta name="twitter:creator" content="@{{ site.owner.twitter }}">{% endif %}
 
-<!-- Schema for Google, Yahoo, etc -->
- <div itemscope itemtype="http://schema.org/Review">
-  <div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Thing"><span itemprop="name">{{ site.restaurant }}</span></div> <div itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Jennifer Kim</span></div><meta itemprop="datePublished" content = "{{ page.date| date: "%Y-%m-%d" }}">  <div itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating" 
-<meta itemprop="worstRating" content = "1"/><span itemprop="ratingValue">{{ site.review }}</span>/<span itemprop="bestRating">5</span> stars </div>
-    <span itemprop="description"> {{site.description}} {{site.tag}}</span>
-  </div>
+
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
