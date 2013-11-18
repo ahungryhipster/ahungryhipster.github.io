@@ -5,20 +5,20 @@ published: false
 title: Anniversary Dinner at Lockeland Table
 comments: true
 tag: "Lockeland Table, Nashville, Anniversary"
-image: Annivbg.jpg
+image: annivbg.jpg
 description: "Yesterday, John and I celebrated our one year anniversary at [Lockeland Table](http://lockelandtable.com). We had never been before, but we realized it was finally time for a visit..."
 ---
 
 Yesterday, John and I celebrated our one year anniversary at [Lockeland Table](http://lockelandtable.com). We had never been before, but we realized it was finally time for a visit. The runner ups were 404 Kitchen and the Farm House...Ultimately, we made a great decision. 
 
-##Course 1
+##COURSE 1
 I had previously tweeted at @[clarkmatclark](https://twitter.com/clarkmatclark), "pizza ninja" at Lockeland Table, for recommendations and he recommended the chicken liver patè; I've read great reviews for this dish multiple times but John insisted we get the Cox Farms Roasted Bone Marrow. 
 
 ![bonemarrowLT.JPG](/images/bonemarrowLT.JPG)
 
 I was _really_ resistant to eating the bone marrow because of its jelly like consistency, but I have to admit it tasted great. John absolutely loved it. However, I'd only recommend it if you enjoy that type of consistency.
 
-##Course 2
+##COURSE 2
 
 We ordered the grilled Hereford NY strip with chimichurri and it was cooked to perfection. Lockeland Table is one of the very few restaurants that gets medium-rare right. The chimichurri was a great addition to the dish that demonstrated to be very smoky and savory itself. 
 
@@ -27,7 +27,7 @@ We ordered the grilled Hereford NY strip with chimichurri and it was cooked to p
 We also ordered the Potato & Taragon Gnocchi. It was definitely a unique gnocchi dish, mostly because of its house made boursin cream sauce. I enjoyed it a lot, but don't expect your standard Italian gnocchi. The Tennshootoe (salted ham) was a great touch, but all in all the dish ended to be a little too salty for me.
 ![GNOCCHILT.jpg](/images/GNOCCHILT.jpg)
 
-##Always leave room for dessert
+##ALWAYS LEAVE ROOM FOR DESSERT
 
 It was our anniversary so of course we splurged a little...
 
