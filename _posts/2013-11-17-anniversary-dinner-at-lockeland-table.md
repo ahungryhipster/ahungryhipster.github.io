@@ -6,6 +6,7 @@ title: Anniversary Dinner at Lockeland Table
 comments: true
 tag: "Lockeland Table, Nashville, Anniversary"
 image: Annivblog.jpg
+description: "Yesterday, John and I celebrated our one year anniversary at [Lockeland Table](http://lockelandtable.com). We had never been before, but we realized it was finally time for a visit..."
 ---
 
 Yesterday, John and I celebrated our one year anniversary at [Lockeland Table](http://lockelandtable.com). We had never been before, but we realized it was finally time for a visit. The runner ups were 404 Kitchen and the Farm House...Ultimately, we made a great decision. 
