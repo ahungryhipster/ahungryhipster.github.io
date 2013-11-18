@@ -1,7 +1,7 @@
 ---
 category: articles
 layout: post
-published: true
+published: false
 title: Anniversary Dinner at Lockeland Table
 comments: true
 tag: "Lockeland Table, Nashville, Anniversary"
