@@ -40,8 +40,6 @@ The rum was actually prevalent in the banana pudding. It was excellent, but next
 Honestly, I'm just a sucker for any type of dessert that serves something warm with ice cream. 
 
 
+If you love Lockeland Table, consider the 5 course pop up dinner the "pizza ninja", Chris Mat Clark, and Zach Maddox from Coffee, Lunch are hosting this upcoming Sunday. $80/person and it's BYOB :) 
 
-If you love Lockeland Table, consider the pop up dinner one of the chefs, Chris Mat Clark, and ___ from Coffee, Lunch are hosting 
-
-Although we didn't have the privacy we wanted, we enjoyed our dinner very much. 
-Make a reservation. Please.
+If you haven't been to Lockeland Table yet and you want to go on the weekend, make a reservation. The restaurant holds about 88 people and it gets pretty busy. Honestly, we didn't have the privacy we really wanted for our anniversary but the experience made up for it. 
