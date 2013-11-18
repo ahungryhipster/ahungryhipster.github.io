@@ -21,6 +21,9 @@ We ordered the grilled Hereford NY strip with chimichurri, and it was cooked to 
 
 ![NYSTRIPLT.jpg](/images/NYSTRIPLT.jpg)
 
+We also ordered the Potato & Taragon Gnocchi which proved to be very unique relative to other gnocchi dishes, mostly because of its house made,creamy boursin cream sauce. I enjoyed it a lot but don't expect your standard Italian gnocchi dish. The Tennshootoe (salted ham) was a great touch to the dish but all in all the dish ended to be a little too concentrated in taste for me. 
+
+
 
 
 If you love Lockeland Table, consider the pop up dinner one of the chefs, Chris Mat Clark, and ___ from Coffee, Lunch are hosting 
