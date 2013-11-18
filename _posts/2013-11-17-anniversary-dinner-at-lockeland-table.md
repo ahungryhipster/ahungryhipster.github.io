@@ -37,7 +37,7 @@ The rum was actually prevalent in the banana pudding. It was excellent, but next
 
 ![Chocolatechipskillet.jpg](/images/Chocolatechipskillet.jpg)
 
-Honestly, I'm just a sucker for any type of dessert that has something warm with ice cream. 
+Honestly, I'm just a sucker for any type of dessert that serves something warm with ice cream. 
 
 
 
