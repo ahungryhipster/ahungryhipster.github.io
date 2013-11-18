@@ -46,7 +46,7 @@ If you love Lockeland Table, consider the 5 course pop up dinner the "pizza ninj
 
 If you haven't been to Lockeland Table yet and you want to go on the weekend, make a reservation. The restaurant holds about 88 people and it gets pretty busy. Honestly, we didn't have the privacy we really wanted for our anniversary but the experience made up for it.
 
-##What to get
+##WHAT TO GET
 
 1. Grilled Hereford NY strip
 2. Olive & Sinclair Chocolate Chip Skillet
