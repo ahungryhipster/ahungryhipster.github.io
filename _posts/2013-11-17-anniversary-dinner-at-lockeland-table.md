@@ -35,7 +35,9 @@ We ordered the Banana Foster Bread Pudding and the very popular Olive & Sinclair
 
 The rum was actually prevalent in the banana pudding. It was excellent, but next time I would only order the chocolate chip skillet. 
 
+![Chocolatechipskillet.jpg](/images/Chocolatechipskillet.jpg)
 
+Honestly, I'm just a sucker for any type of dessert that has something warm with ice cream. 
 
 
 
