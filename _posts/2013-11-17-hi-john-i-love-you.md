@@ -1,7 +1,7 @@
 ---
 category: articles
 layout: post
-published: false
+published: true
 title: "Hi John, I Love You. "
 comments: true
 tag: "Best, Boyfriend, Ever"
@@ -17,4 +17,4 @@ More so, thank you for loving me unconditionally and showing me what love is. Yo
 
 ![Anniv.jpg](/images/Anniv.jpg)
 
-I love you. 
+I love you.
