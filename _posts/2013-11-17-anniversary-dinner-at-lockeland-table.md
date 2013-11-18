@@ -33,6 +33,8 @@ We ordered the Banana Foster Bread Pudding and the very popular Olive & Sinclair
 
 ![BANANAbpudding.jpg](/images/BANANAbpudding.jpg)
 
+The rum was actually prevalent in the banana pudding. It was excellent, but next time I would only order the chocolate chip skillet. 
+
 
 
 
