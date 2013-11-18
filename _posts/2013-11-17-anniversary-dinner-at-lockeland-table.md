@@ -5,7 +5,7 @@ published: false
 title: Anniversary Dinner at Lockeland Table
 comments: true
 tag: "Lockeland Table, Nashville, Anniversary"
-image: Annivblog.jpg
+image: Annivbg.jpg
 description: "Yesterday, John and I celebrated our one year anniversary at [Lockeland Table](http://lockelandtable.com). We had never been before, but we realized it was finally time for a visit..."
 ---
 
