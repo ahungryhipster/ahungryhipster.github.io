@@ -84,7 +84,18 @@ prose:
               help: "For links like twitter cards"
               label: "Description"
               value: ''
-
+          - name: "restaurant"
+            field: 
+              element: "text"
+              help: "Name of the restaurant"
+              label: "Restaurant Name"
+              value: ''
+          - name: "review"
+            field: 
+              element: "text"
+              help: "Write a number 1-5"
+              label: "Rating"
+              value: ''
               
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
