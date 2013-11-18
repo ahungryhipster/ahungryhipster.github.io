@@ -10,7 +10,7 @@ tag: "Lockeland Table, Nashville, Anniversary"
 Yesterday, John and I celebrated our one year anniversary at [Lockeland Table](http://lockelandtable.com). We had never been before, but we realized it was finally time for a visit after debating between Lockeland Table, 404 Kitchen, and the Farm House...Ultimately, we made a great decision. 
 
 ##Course 1
-I had previously tweeted at @clarkatclark, "pizza ninja" at Lockeland Table, for recommendations and he recommended the chicken liver patè; I've read great reviews for this dish multiple times but John insisted we get the Cox Farms Roasted Bone Marrow. 
+I had previously tweeted at @[clarkmatclark](https://twitter.com/clarkmatclark), "pizza ninja" at Lockeland Table, for recommendations and he recommended the chicken liver patè; I've read great reviews for this dish multiple times but John insisted we get the Cox Farms Roasted Bone Marrow. 
 
 ![bonemarrowLT.JPG](/images/bonemarrowLT.JPG)
 
@@ -40,6 +40,6 @@ The rum was actually prevalent in the banana pudding. It was excellent, but next
 Honestly, I'm just a sucker for any type of dessert that serves something warm with ice cream. 
 
 
-If you love Lockeland Table, consider the 5 course pop up dinner the "pizza ninja", Chris Mat Clark, and Zach Maddox from Coffee, Lunch are hosting this upcoming Sunday. $80/person and it's BYOB :) 
+If you love Lockeland Table, consider the 5 course pop up dinner the "pizza ninja", Matthew Clark, and Zach Maddox from Coffee, Lunch are hosting this upcoming Sunday. $80/person and it's BYOB :) 
 
 If you haven't been to Lockeland Table yet and you want to go on the weekend, make a reservation. The restaurant holds about 88 people and it gets pretty busy. Honestly, we didn't have the privacy we really wanted for our anniversary but the experience made up for it. 
