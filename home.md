@@ -2,7 +2,7 @@
 layout: page
 permalink: /
 description: "A food blog about a hipster living in Nashville."
-tags: [hipster, food, blog, nashville, restaurant, what, to, eat, drink]
+tags: [hungry hipster,review, food, blog, nashville, restaurant, what, to, eat, drink,]
 ---
 
 <ul class="post-list">
