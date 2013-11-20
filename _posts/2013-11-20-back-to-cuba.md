@@ -11,8 +11,13 @@ One of my best friends is of Cuban descent and last summer he suggested going to
 
 ##DRINK
 
-I _always_ get a fruit milkshake. I just can't not get one, I would be doing wrong to myself. 
+I _always_ get a fruit milkshake. I can't just not get one, I would be doing wrong to myself. 
 
 ![BacktoCubaDrink.jpg](/images/BacktoCubaDrink.jpg)
 
-They're incredibly milky and creamy and I've just never had anything similar to it. I always get mango or passionfruit. Either is excellent. If you only get one of the things I recommend, please get a fruit milkshake.
+They're incredibly milky and creamy and I've just never had anything similar to it. I always get mango or passionfruit; either is excellent. If you only get one of the things I recommend, please get a fruit milkshake.
+
+##FOOD
+
+
+
