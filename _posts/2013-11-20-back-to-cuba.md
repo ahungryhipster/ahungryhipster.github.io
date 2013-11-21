@@ -40,5 +40,4 @@ I don't love flan, so I probably wouldn't get it again. Instead, I'd get the Arr
 1. Mango or Passion Fruit Milkshake
 2. Bisteck Palomilla
 3. Churrasco
-
-(4. An Extra Side of Their Cuban Rice)
+4. (An Extra Side of Their Cuban Rice)
