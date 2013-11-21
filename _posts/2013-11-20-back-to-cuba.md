@@ -10,14 +10,16 @@ One of my best friends is of Cuban descent and last summer he suggested going to
 
 ##DRINK
 
-I _always_ get a fruit milkshake. I can't just not get one, I would be doing wrong to myself. 
+I _always_ get a fruit milkshake. I can't just not get one. 
 
 ![BacktoCubaDrink.jpg](/images/BacktoCubaDrink.jpg)
 
-They're incredibly milky and creamy and I've just never had anything similar to it. I always get mango or passionfruit; either is excellent. If you only get one of the things I recommend, please just get a fruit milkshake.
+They're incredibly creamy and I've just never had anything similar to it. I always get mango or passionfruit; either is excellent. If you only get one of the things I recommend, please just get a fruit milkshake.
 
 ##FOOD
 
 I'm a fan of the steak dishes here. I usually order the Bisteck Palomilla which is just Palomilla Steak, a thinly sliced steak cooked with lime juice, garlic, and onions or the Churrasco which is skirt steak with Chimichurri sauce. If you've read my post about Lockeland Table, then you know that John and I are big fans of Chimichurri sauce. It's a sauce used with grilled meat that contains parsley, garlic, vinegar, and chili pepper flakes. The Churrasco is pictured below
 
 ![Churrasco.jpg](/images/Churrasco.jpg)
+
+What really compliments the steak is the rice. Cuban rice is known to be seasoned with oil, salt, and garlic and it tastes phenomenal at Back to Cuba. In addition, the owner of the restaurant prides himself in the beans. He told us it's his grandma's recipe :) 
