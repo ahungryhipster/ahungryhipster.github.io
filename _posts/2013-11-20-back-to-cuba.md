@@ -18,8 +18,10 @@ They're incredibly creamy and I've just never had anything similar to it. I alwa
 
 ##FOOD
 
-I'm a fan of the steak dishes here. I usually order the Bisteck Palomilla which is just Palomilla Steak, a thinly sliced steak cooked with lime juice, garlic, and onions or the Churrasco which is skirt steak with Chimichurri sauce. If you've read my post about Lockeland Table, then you know that John and I are big fans of Chimichurri sauce. It's a sauce used with grilled meat that contains parsley, garlic, vinegar, and chili pepper flakes. The Churrasco is pictured below
+I'm a fan of the steak dishes here. I usually order the Bisteck Palomilla which is just Palomilla Steak, a thinly sliced steak cooked with lime juice, garlic, and onions or the Churrasco which is skirt steak with Chimichurri sauce. If you've read my post about Lockeland Table, then you know that John and I are big fans of Chimichurri sauce. It's a sauce used with grilled meat that contains parsley, garlic, vinegar, and chili pepper flakes. The Churrasco with rice, beans, and tostones is pictured below
 
 ![Churrasco.jpg](/images/Churrasco.jpg)
 
 What really compliments the steak is the rice. Cuban rice is known to be seasoned with oil, salt, and garlic and it tastes phenomenal at Back to Cuba. In addition, the owner of the restaurant prides himself in the beans. He told us it's his grandma's recipe :) 
+
+Although I love the steak at Back to Cuba, I didn't love the sandwich I ordered, which was the Pan con Leeching: roast pork, onion, and mojo sauce. 
