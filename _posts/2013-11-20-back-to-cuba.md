@@ -20,3 +20,4 @@ They're incredibly milky and creamy and I've just never had anything similar to 
 
 I'm a fan of the steak dishes here. I usually order the Bisteck Palomilla which is just Palomilla Steak, a thinly sliced steak cooked with lime juice, garlic, and onions or the Churrasco which is skirt steak with Chimichurri sauce. If you've read my post about Lockeland Table, then you know that John and I are big fans of Chimichurri sauce. It's a sauce used with grilled meat that contains parsley, garlic, vinegar, and chili pepper flakes. The Churrasco is pictured below
 
+![Churrasco.jpg](/images/Churrasco.jpg)
