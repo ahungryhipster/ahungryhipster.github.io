@@ -24,4 +24,4 @@ I'm a fan of the steak dishes here. I usually order the Bisteck Palomilla which 
 
 What really compliments the steak is the rice. Cuban rice is known to be seasoned with oil, salt, and garlic and it tastes phenomenal at Back to Cuba. In addition, the owner of the restaurant prides himself in the beans. He told us it's his grandma's recipe :) 
 
-Although I love the steak at Back to Cuba, I didn't love the sandwich I ordered, which was the Pan con Leeching: roast pork, onion, and mojo sauce. 
+Although I love the steak at Back to Cuba, I didn't enjoy the sandwich I ordered nearly as much, which was the Pan con Leeching: roast pork, onion, and mojo sauce. 
