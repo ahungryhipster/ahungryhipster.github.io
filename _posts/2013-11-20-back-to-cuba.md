@@ -4,6 +4,9 @@ layout: post
 published: false
 title: Back to Cuba
 comments: true
+image: BanBTC.jpg
+tag: "Back to Cuba, Nashville, Cuban Food"
+description: "One of my best friends is of Cuban descent, and last summer he suggested going to Back to Cuba, a restaurant him and his dad would frequently visit."
 ---
 
 One of my best friends is of Cuban descent, and last summer he suggested going to [Back to Cuba](https://www.facebook.com/pages/Back-to-Cuba-Cafe/105542942857719), a restaurant him and his dad would frequently visit. The owner is also Cuban-American, and I always appreciate him taking the time to talk to us and share his charming stories-- all while feeding us free dessert. I had never had Cuban food before Back to Cuba but I absolutely loved it, and I've been going back ever since...
