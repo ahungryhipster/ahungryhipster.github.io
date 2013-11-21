@@ -27,3 +27,10 @@ What really compliments the steak is the rice. Cuban rice is known to be seasone
 Although I love the steak at Back to Cuba, I didn't enjoy the sandwich I ordered nearly as much, which was the Pan con Leeching: roast pork, onion, and mojo sauce.
 
 ![pan.jpg](/images/pan.jpg)
+
+The bread and the grilled onions were great (I love anywhere that's generous with their onions) but the pork was inconsistent throughout the sandwich. Some of it was too dry while some of it was perfect. 
+
+##ALWAYS LEAVE ROOM FOR DESSERT
+
+Pictured below is the flan 
+
