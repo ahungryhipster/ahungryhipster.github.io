@@ -18,7 +18,7 @@ They're incredibly creamy and I've just never had anything similar to it. I alwa
 
 ##FOOD
 
-I'm a fan of the steak dishes here. I usually order the Bisteck Palomilla which is just Palomilla Steak, a thinly sliced steak cooked with lime juice, garlic, and onions or the Churrasco which is skirt steak with Chimichurri sauce. If you've read my post about Lockeland Table, then you know that John and I are big fans of Chimichurri sauce. It's a sauce used with grilled meat that contains parsley, garlic, vinegar, and chili pepper flakes. The Churrasco with rice, beans, and tostones is pictured below
+I'm a fan of the steak dishes here. I usually order the Bisteck Palomilla which is just Palomilla Steak, a thinly sliced steak cooked with lime juice, garlic, and onions or the Churrasco which is skirt steak with Chimichurri sauce. If you've read my post about [Lockeland Table](http://www.ahungryhipster.com/articles/anniversary-dinner-at-lockeland-table/), then you know that John and I are big fans of Chimichurri sauce. It's a sauce used with grilled meat that contains parsley, garlic, vinegar, and chili pepper flakes. The Churrasco with rice, beans, and tostones is pictured below
 
 ![Churrasco.jpg](/images/Churrasco.jpg)
 
