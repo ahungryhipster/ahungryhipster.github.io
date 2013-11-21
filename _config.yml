@@ -2,7 +2,7 @@ title:            A Hungry Hipster
 description:      Always leave room for dessert.
 logo:             site-logo.png
 disqus_shortname: ahungryhipster
-search:           true
+search:           false
 
 name:             A Hungry Hipster
 
