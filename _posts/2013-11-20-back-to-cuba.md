@@ -6,7 +6,7 @@ title: Back to Cuba
 comments: true
 ---
 
-One of my best friends is of Cuban descent and last summer he suggested going to Back to Cuba, a restaurant him and his dad would frequently visit. The owner is also of Cuban descent and I appreciated that he took the time to talk to us and share his story-- all while feeding us free dessert. I had never had Cuban food before Back to Cuba but I loved it, and I've been going back ever since...
+One of my best friends is of Cuban descent and last summer he suggested going to [Back to Cuba](https://www.facebook.com/pages/Back-to-Cuba-Cafe/105542942857719), a restaurant him and his dad would frequently visit. The owner is also of Cuban descent and I appreciated that he took the time to talk to us and share his story-- all while feeding us free dessert. I had never had Cuban food before Back to Cuba but I loved it, and I've been going back ever since...
 
 ##DRINK
 
