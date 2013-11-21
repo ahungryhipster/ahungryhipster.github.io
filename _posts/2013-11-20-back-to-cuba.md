@@ -28,9 +28,14 @@ Although I love the steak at Back to Cuba, I didn't enjoy the sandwich I ordered
 
 ![pan.jpg](/images/pan.jpg)
 
-The bread and the grilled onions were great (I love anywhere that's generous with their onions) but the pork was inconsistent throughout the sandwich. Some of it was too dry while some of it was perfect. 
+The bread and the grilled onions were great (I love anywhere that's generous with their onions) but the pork was inconsistent throughout the sandwich. Some of it was too dry while some of it was perfect. However, this place is known for their Cuban sandwiches and the majority of their reviews emphasize the sandwiches. 
 
 ##ALWAYS LEAVE ROOM FOR DESSERT
 
-Pictured below is the flan 
+Pictured below is the flan
 
+![Flan.jpg](/images/Flan.jpg)
+
+I don't love flan, so I probably wouldn't get it again but I would get the Arroz con Leche which is their rice pudding. It's not as thick as most rice pudding but it has a more liquidy consistency. It's a lot lighter than most of your typical desserts so it's a great way to finish your meal without feeling terribly full. 
+
+Give this place a chance. It's located in the 
