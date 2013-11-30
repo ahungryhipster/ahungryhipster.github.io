@@ -2,7 +2,7 @@
 category: articles
 layout: post
 published: false
-title: Far East Nashville 1
+title: Far East Nashville
 comments: true
 ---
 
