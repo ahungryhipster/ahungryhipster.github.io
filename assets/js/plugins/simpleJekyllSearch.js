@@ -15,7 +15,7 @@
             searchResultsTitle   : '<h4>Search results</h4>',
             limit           : '10',
             noResults       : '<p>Oh shucks<br/><small>Nothing found :(</small></p>'
-        }, options);
+        });
 
         var properties = settings.jsonFormat.split(',');
         
