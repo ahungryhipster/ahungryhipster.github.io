@@ -4,6 +4,8 @@ layout: post
 published: false
 title: Pinewood Social
 comments: true
+image: pinewoodbanner.jpg
+tag: "Pinewood Social, Strategic Hospitality, Goldbergs, Nashville"
 ---
 
 I am a huge fan of the Goldbergs and the places they've created for Strategic Hospitality. If you're unfamiliar with the group, two of their most popular projects include Patterson House and the Catbird Seat. So, once I heard the brothers were working on a new project, I've kept my eye on Pinewood Social since. 
