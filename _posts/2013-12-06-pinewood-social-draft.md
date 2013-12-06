@@ -50,6 +50,13 @@ We all know service makes or breaks the experience. Even though I had to wait fo
 
 ![logopinewood.jpg](/images/logopinewood.jpg)
 
+##ENTERTAINMENT 
 
+The bowling lanes, karaoke rooms, and swimming pool are still in the works. The bowling lanes look fantastic! They've used reclaimed wood and it gives off a very vintage, authentic feel. Better yet, there won't be any ball or shoe rental fees!
 
+![bowlingpinewood.jpg](/images/bowlingpinewood.jpg)
+
+All in all, I'm still very excited to see what the rest of Pinewood Social will develop into. There is no doubt that this gathering place will be successful, just like any of the other Goldbergs' projects. Take the time to check it out. It's in one of the Trolley Barns at 33 Peabody Street right next to Emma and the Entrepreneur Center. The hours are M-F 7AM-1AM and Sat/Sun 9AM-1AM. 
+
+P.S. Make a reservation. John and I got a private room in the back of the place with a booth and TV in it. We weren't expecting it but it was a pleasant surprise!
 
