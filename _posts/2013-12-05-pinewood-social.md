@@ -18,13 +18,13 @@ I visited their second day of operation. Although I still had to wait for my 8:3
 
 ##FOOD
 
-The menu was created by Josh Habiger who previously worked at Catbird Seat and Alinea (repeatedly named one of the best restaurants in North America). I was excited to say the least. 
+The menu was created by Josh Habiger who previously worked at Catbird Seat and Alinea in Chicago (repeatedly named one of the best restaurants in North America). I was excited to say the least. 
 
 We started off with shrimp cocktail which was incredibly fresh. 
 
 ![shrimppinewood.jpg](/images/shrimppinewood.jpg)
 
-We continued on with the fried chicken and pork chop. I really wanted to try the mushroom pot pie but unfortunately they sold out. I was disappointed but all the reason to return! 
+We continued on with the fried chicken and pork chop. I really wanted to try the mushroom pot pie but unfortunately they were sold out. I was disappointed but all the reason to return! 
 
 ![porkchoppinewood.jpg](/images/porkchoppinewood.jpg)
 
