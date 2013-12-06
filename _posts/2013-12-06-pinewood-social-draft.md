@@ -26,3 +26,10 @@ We continued on with the Fried Chicken and the Pork Chop. I had initially ordere
 
 ![porkchoppinewood.jpg](/images/porkchoppinewood.jpg)
 
+The spätzle with the pork chop was my favorite part of the dish. 
+
+##DRINK
+
+
+
+
