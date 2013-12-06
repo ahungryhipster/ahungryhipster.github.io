@@ -34,7 +34,7 @@ In addition, they have a coffee bar that was created with local neighbor, Crema 
 
 ##ALWAYS LEAVE ROOM FOR DESSERT
 
-Pinewood Social currently only serves two desserts: apple pie and pear (custard) pie. They haven't started serving these pies with ice cream but will be soon!
+Pinewood Social currently only serves two desserts: apple pie and pear (custard) pie. They haven't started serving these pies with ice cream but they will be soon!
 
 
 ##SERVICE
