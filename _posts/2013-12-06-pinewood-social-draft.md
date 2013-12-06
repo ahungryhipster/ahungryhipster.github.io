@@ -42,7 +42,7 @@ In addition, they have a coffee bar which is basically an extension of Crema Cof
 
 Pinewood Social currently only has two desserts available: Apple Pie and Pear Custard Pie. Once I hear the word pie, I immediately think of pie and ice cream; however, they haven't started serving the desserts with ice cream _yet_. I've heard that Catbird Seat pastry chef Mayme Gretsch who is trying to open Utterly Soft Serve in Nashville may have some of her soft serve featured at Pinewood :)
 
-![pearpinewood.jpg](/images/pearpinewood.jpg)
+![pearpiepinewood.jpg](/images/pearpiepinewood.jpg)
 
 ##EXPERIENCE
 
