@@ -14,7 +14,7 @@ Pinewood Social is referred to as a "place to meet." It's designed so that you c
 
 ![candidpinewood.jpg](/images/candidpinewood.jpg)
 
-I visited their second day of operation. Although I still had to wait for my 8:30PM reservation, the staff was very courteous and directed us to the cozy waiting area with water and menus. 
+I visited on their second day of operation. Although I still had to wait for my 8:30PM reservation, the staff was very courteous and directed us to the cozy waiting area with water and menus. 
 
 ##FOOD
 
