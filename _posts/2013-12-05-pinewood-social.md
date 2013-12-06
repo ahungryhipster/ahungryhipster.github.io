@@ -22,6 +22,8 @@ We started off with shrimp cocktail which was incredibly fresh.
 
 and we continued on with the fried chicken and pork chop. I really wanted to try the mushroom pot pie but unfortunately they sold out. I was disappointed but all the reason to return! 
 
+![porkchoppinewood.jpg](/images/porkchoppinewood.jpg)
+
 The spätzle with the pork chop was excellent. 
 
 ##DRINK
