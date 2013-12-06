@@ -30,7 +30,26 @@ The spätzle with the pork chop was my favorite part of the dish.
 
 ##DRINK
 
-There is a wide variety of drinks including wines, beers, cocktails, and mocktails. The bar is runned by Matt Tocco who previously worked at Patterson House and Rolf & Daughters. One of the coolest things about Pinewood Social's bar program is that the bartenders chisel ice for each drink and you can watch it happen by the bar. 
+There's a wide variety of drinks including wines, beers, cocktails, and mocktails. The bar is runned by Matt Tocco who previously worked at Patterson House and Rolf & Daughters. One of the coolest things about Pinewood Social's bar program is that the bartenders chisel ice for each drink and you can watch it happen by the bar. 
+
+I had the Lemon of Pink and John had the Sidecar Named Doug. 
+
+![dougpinewood.jpg](/images/dougpinewood.jpg)
+
+In addition, they have a coffee bar which is basically an extension of Crema Coffee. They serve all of your standard coffee and espresso drinks **and coffee cocktails**.
+
+##ALWAYS LEAVE ROOM FOR DESSERT
+
+Pinewood Social currently only has two desserts available: Apple Pie and Pear Custard Pie. Once I hear the word pie, I immediately think of pie and ice cream; however, they haven't started serving the desserts with ice cream _yet_. I've heard that Catbird Seat pastry chef Mayme Gretsch who is trying to open Utterly Soft Serve in Nashville may have some of her soft serve featured at Pinewood :)
+
+![pearpinewood.jpg](/images/pearpinewood.jpg)
+
+##EXPERIENCE
+
+We all know service makes or breaks the experience. Even though I had to wait for my reservation, the staff was very courteous and escorted us to the cozy waiting area with water and menus. I had about three employees come and apologize for the wait, this speaks for itself. We had wonderful service thanks to Chris G. who was working over a 12 hour shift and still made sure we had a great time. If you look closely, all the males are wearing ties with the logo and even have custom shoe laces. 
+
+![logopinewood.jpg](/images/logopinewood.jpg)
+
 
 
 
