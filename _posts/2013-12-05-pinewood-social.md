@@ -10,6 +10,8 @@ I am a huge fan of the Goldbergs and the places they've created for Strategic Ho
 
 Pinewood Social is referred to as a "place to meet." It's designed so that you can spend your whole day there. From grabbing a cup of coffee in the morning, to working remotely on your laptop at one of their community tables, to eating dinner with your friends to only grab drinks after, this place is catered for your every need. They're currently working on a bowling alley, karaoke rooms, and an outdoor swimming pool.
 
+![candidpinewood.jpg](/images/candidpinewood.jpg)
+
 I visited their second day of operation. Although I still had to wait with my 8:30PM reservation, the staff was very courteous and directed us to the cozy waiting area with water and menus. 
 
 ##FOOD
