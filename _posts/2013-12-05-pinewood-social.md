@@ -54,6 +54,8 @@ We all know that service really makes or breaks the experience. We had wonderful
 
 The bowling lanes, karaoke rooms, and swimming pool haven't been finished yet. You can see the bowling lanes currently being constructed and they look fantastic. They've used reclaimed wood and it gives off a very "vintage" feel. In addition, there are no ball and shoe rental fees. YUP!
 
+![bowlingpinewood.jpg](/images/bowlingpinewood.jpg)
+
 All in all, I'm still very excited to see what the rest of Pinewood Social will develop into. There is no doubt that this gathering place will be successful, just like any of the other Goldbergs' projects. Take the time to check it out. It's in one of the Trolley Barns right next to Emma and the Entrepreneur Center. The hours are M-F 7AM-1AM and Sat/Sun 9AM-1AM. 
 
 P.S. Make a reservation. John and I got a private room in the back of the place with a booth and TV in it. We weren't expecting it but it was a pleasant surprise!
