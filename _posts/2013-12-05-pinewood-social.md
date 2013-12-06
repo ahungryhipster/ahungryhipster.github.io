@@ -14,7 +14,7 @@ Pinewood Social is referred to as a "place to meet." It's designed so that you c
 
 ![candidpinewood.jpg](/images/candidpinewood.jpg)
 
-I visited on their second day of operation. Although I still had to wait for my 8:30PM reservation, the staff was very courteous and directed us to the cozy waiting area with water and menus. 
+I visited on their second day of operation. Although I still had to wait an additional 10 minute for my 8:30PM reservation, the staff was very courteous and directed us to the cozy waiting area with water and menus. 
 
 ##FOOD
 
@@ -24,11 +24,11 @@ We started off with shrimp cocktail which was incredibly fresh.
 
 ![shrimppinewood.jpg](/images/shrimppinewood.jpg)
 
-We continued on with the fried chicken and pork chop. I really wanted to try the mushroom pot pie but unfortunately they were sold out. I was disappointed but all the reason to return! 
+We continued on with the fried chicken and pork chop. I originally had my eyes on the mushroom pot pie, but our waiter, Chris, informated us the dish was, unfortunately, sold out by then. I slightly was disappointed, but all the more reason to return! 
 
 ![porkchoppinewood.jpg](/images/porkchoppinewood.jpg)
 
-The spätzle with the pork chop was excellent. 
+The spätzle with the pork chop was excellent. It has a curious dough-like texture, which was a good contrast to the pork. As for the pork chop itself,
 
 ##DRINK
 
