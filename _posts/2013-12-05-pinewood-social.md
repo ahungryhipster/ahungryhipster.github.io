@@ -32,9 +32,9 @@ The spätzle with the pork chop was excellent.
 
 ##DRINK
 
-There is a wide variety of drinks from wines, beers, and cocktails. The bar is ran by Matt Tocco, who previously worked at Patterson House and then Rolf & Daughters, so, have high expectations. 
+There is a wide variety of drinks from wines, beers, and cocktails. The bar is ran by Matt Tocco, who previously worked at Patterson House and then Rolf & Daughters. 
 
-I had the Lemon of Pink and John had the Sidecar Named Doug, pictured below. 
+I had the Lemon of Pink and John had the Sidecar Named Doug.
 
 ![dougpinewood.jpg](/images/dougpinewood.jpg)
 
@@ -44,7 +44,7 @@ In addition, they have a coffee bar that was created with local neighbor, Crema 
 
 ##ALWAYS LEAVE ROOM FOR DESSERT
 
-Pinewood Social currently only serves two desserts: apple pie and pear (custard) pie. They haven't started serving these pies with ice cream but they will be soon!
+Pinewood Social currently only serves two desserts: apple pie and pear (custard) pie. They haven't started serving these pies with ice cream yet, but they are planning on it!
 
 ![pearpiepinewood.jpg](/images/pearpiepinewood.jpg)
 
@@ -56,7 +56,7 @@ We all know that service really makes or breaks the experience. We had wonderful
 
 ##ENTERTAINMENT
 
-The bowling lanes, karaoke rooms, and swimming pool haven't been finished yet. You can see the bowling lanes currently being constructed and they look fantastic. They've used reclaimed wood and it gives off a very "vintage" feel. In addition, there are no ball and shoe rental fees. YUP!
+The bowling lanes, karaoke rooms, and swimming pool haven't been finished yet. You can see the bowling lanes currently being constructed and they look fantastic. They've used reclaimed wood and it gives off a very vintage feel. In addition, there are no ball and shoe rental fees. YUP!
 
 ![bowlingpinewood.jpg](/images/bowlingpinewood.jpg)
 
