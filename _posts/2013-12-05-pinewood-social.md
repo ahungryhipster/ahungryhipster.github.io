@@ -18,6 +18,8 @@ The menu was created by Josh Habiger who previously worked at Catbird Seat and b
 
 We started off with shrimp cocktail which was incredibly fresh. 
 
+![shrimppinewood.jpg](/images/shrimppinewood.jpg)
+
 and we continued on with the fried chicken and pork chop. I really wanted to try the mushroom pot pie but unfortunately they sold out. I was disappointed but all the reason to return! 
 
 The spätzle with the pork chop was excellent. 
@@ -48,7 +50,3 @@ The bowling lanes, karaoke rooms, and swimming pool haven't been finished yet. Y
 All in all, I'm still very excited to see what the rest of Pinewood Social will develop into. There is no doubt that this gathering place will be successful, just like any of the other Goldbergs' projects. Take the time to check it out. It's in one of the Trolley Barns right next to Emma and the Entrepreneur Center. The hours are M-F 7AM-1AM and Sat/Sun 9AM-1AM. 
 
 P.S. Make a reservation. John and I got a private room in the back of the place with a booth and TV in it. We weren't expecting it but it was a pleasant surprise!
-
-
-
-
