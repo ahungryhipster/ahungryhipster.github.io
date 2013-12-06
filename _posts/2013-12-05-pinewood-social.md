@@ -24,9 +24,7 @@ We started off with shrimp cocktail which was incredibly fresh.
 
 ![shrimppinewood.jpg](/images/shrimppinewood.jpg)
 
-and we continued on with the fried chicken and pork chop. I really wanted to try the mushroom pot pie but unfortunately they sold out. I was disappointed but all the reason to return! 
-
-![friedchickenpinewood.jpg](/images/friedchickenpinewood.jpg)
+We continued on with the fried chicken and pork chop. I really wanted to try the mushroom pot pie but unfortunately they sold out. I was disappointed but all the reason to return! 
 
 ![porkchoppinewood.jpg](/images/porkchoppinewood.jpg)
 
