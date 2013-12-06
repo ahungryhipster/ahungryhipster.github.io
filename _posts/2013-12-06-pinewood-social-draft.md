@@ -22,7 +22,7 @@ John and I started off with the Shrimp Cocktail and I really enjoyed it. The shr
 
 ![shrimppinewood.jpg](/images/shrimppinewood.jpg)
 
-We continued on with the Fried Chicken and the Pork Chop. I had initially ordered the Mushroom Pot Pie but they sold out... I guess that's all the reason to make a trip back. 
+We continued on with the Fried Chicken and the Pork Chop. I had initially ordered the Mushroom Pot Pie but they sold out... I guess that's all the reason to make a trip back!
 
 ![porkchoppinewood.jpg](/images/porkchoppinewood.jpg)
 
