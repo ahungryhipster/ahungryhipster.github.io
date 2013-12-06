@@ -16,5 +16,13 @@ I visited the second day of operation and it was _busy_.
 
 ##FOOD
 
+The menu was created by Josh Habiger who was previously co-chef at the Catbird Seat and Alinea. If you're unfamiliar with Alinea, it's a restaurant in Chicago that has been internationally recognized by the Michelin Food Guide and repeatedly referred to as the best restaurant in North America. You can expect to have a fantastic meal if you hear the name Josh Habiger. 
 
+John and I started off with the Shrimp Cocktail and I really enjoyed it. The shrimp was very fresh, especially for being served in Nashville. 
+
+![shrimppinewood.jpg](/images/shrimppinewood.jpg)
+
+We continued on with the Fried Chicken and the Pork Chop. I had initially ordered the Mushroom Pot Pie but they sold out... I guess that's all the reason to make a trip back. 
+
+![porkchoppinewood.jpg](/images/porkchoppinewood.jpg)
 
