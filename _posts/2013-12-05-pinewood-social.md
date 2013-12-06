@@ -34,6 +34,8 @@ There is a wide variety of drinks from wines, beers, and cocktails. The bar is r
 
 I had the Lemon of Pink and John had the Sidecar Named Doug, pictured below. 
 
+![dougpinewood.jpg](/images/dougpinewood.jpg)
+
 The ice for each cocktail is hand chiseled, so take the time to sit by the bar and watch your bartenders create something unique for you. 
 
 In addition, they have a coffee bar that was created with local neighbor, Crema Coffee. They offer all standard coffee and espresso drinks but have coffee cocktails to come! 
