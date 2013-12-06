@@ -22,7 +22,7 @@ John and I started off with the Shrimp Cocktail and I really enjoyed it. The shr
 
 ![shrimppinewood.jpg](/images/shrimppinewood.jpg)
 
-We continued on with the Fried Chicken and the Pork Chop. I had initially ordered the Mushroom Pot Pie but they sold out... I guess that's all the reason to make a trip back!
+We continued on with the Fried Chicken and the Pork Chop. I had initially ordered the Mushroom Pot Pie but they sold out... I guess that's all the reason to make a trip back. 
 
 ![porkchoppinewood.jpg](/images/porkchoppinewood.jpg)
 
@@ -30,6 +30,7 @@ The spätzle with the pork chop was my favorite part of the dish.
 
 ##DRINK
 
+There is a wide variety of drinks including wines, beers, cocktails, and mocktails. The bar is runned by Matt Tocco who previously worked at Patterson House and Rolf & Daughters. One of the coolest things about Pinewood Social's bar program is that the bartenders chisel ice for each drink and you can watch it happen by the bar. 
 
 
 
