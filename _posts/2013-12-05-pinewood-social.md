@@ -44,6 +44,7 @@ In addition, they have a coffee bar that was created with local neighbor, Crema 
 
 Pinewood Social currently only serves two desserts: apple pie and pear (custard) pie. They haven't started serving these pies with ice cream but they will be soon!
 
+![pearpiepinewood.jpg](/images/pearpiepinewood.jpg)
 
 ##SERVICE
 
