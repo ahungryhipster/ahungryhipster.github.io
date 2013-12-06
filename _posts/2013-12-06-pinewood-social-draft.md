@@ -2,7 +2,7 @@
 category: articles
 layout: post
 published: true
-title: Pinewood Social Draft
+title: "Pinewood Social "
 comments: true
 description: "Hopefully you've heard of Max and Ben Goldberg by now, the co-owners of Strategic Hospitality. "
 image: pinewoodbanner.jpg
