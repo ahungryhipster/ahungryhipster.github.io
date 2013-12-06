@@ -50,6 +50,8 @@ Pinewood Social currently only serves two desserts: apple pie and pear (custard)
 
 We all know that service really makes or breaks the experience. We had wonderful service tonight thanks to Chris G. who was working over a 12 hour shift and still made sure we had a great time. If you look closely, all of the males are wearing ties with Pinewood's logo on it and they have custom laces for their shoes :)
 
+![logopinewood.jpg](/images/logopinewood.jpg)
+
 ##ENTERTAINMENT
 
 The bowling lanes, karaoke rooms, and swimming pool haven't been finished yet. You can see the bowling lanes currently being constructed and they look fantastic. They've used reclaimed wood and it gives off a very "vintage" feel. In addition, there are no ball and shoe rental fees. YUP!
