@@ -14,7 +14,14 @@ Order a drink from Alisa. She is a _phenomenal_ bartender who knows the menu ver
 My go to drink is the Moose but pictured is the Solomon. 
 
 ##FOOD
-John frequently orders the Springer Mountain Half Chicken and it is very consistent. The chicken itself is always tender and juicy. THe salsa verde and calabrian chiles served with the dish gives it a zesty spice which makes you want to eat more. 
+John frequently orders the Springer Mountain Half Chicken and it is very consistent. The chicken itself is always tender and juicy which complements the crispy skin. The salsa verde and calabrian chiles served with the dish gives it a zesty spice that leaves you wanting more. 
+
+I've ordered 2 of the pasta dishes at City House and I wouldn't order either again. The Bread Gnocchi isn't the typical, soft, tender, creamy gnocchi dish that I usually expect. It's on the tougher side and served with a lot less sauce to fully compliment the tougher consistency of the potato dumplings. 
+
+The second pasta dish I've had is the Fettuccini with Lamb. I enjoyed the simplicity of the dish but some of the pasta noodles were stuck together and for me, that's a deal breaker. 
+
+On the other hand, I love the pizza at City House. I've had the Lamb Sausage and the Belly Ham pizza and I 
+
 
 
 
