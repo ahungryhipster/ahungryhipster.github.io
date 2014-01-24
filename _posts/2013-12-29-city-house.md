@@ -42,7 +42,7 @@ Two things make me come back to City House: the people and the dessert. Ever sin
 
 ![StoutCityHouse.jpg](/images/StoutCityHouse.jpg)
 
-Every single time, Andrew takes care of the dessert John & I order. We hate/love that he does it but it has begun the war of never ending gifts. He buys us dessert, we buy him bourbon. He's is a wonderful person and is the main reason why we love going to City House. 
+Every single time, Andrew takes care of the dessert John & I order. We hate/love that he does it but it has begun the war of never ending gifts: he buys us dessert, we buy him bourbon. He is a wonderful person and as we continuously get to know the members of the staff, our love for City House (and their dessert) grows. 
 
 ##WHAT TO GET
 1. A drink from Alisa
