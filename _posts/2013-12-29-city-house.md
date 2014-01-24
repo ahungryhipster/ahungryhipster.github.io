@@ -23,6 +23,9 @@ I've ordered 2 of the pasta dishes at City House and I wouldn't order either aga
 
 The second pasta dish I've had is the Fettuccini with Lamb. I enjoyed the simplicity of the dish but some of the pasta noodles were stuck together and for me, that's a deal breaker. 
 
+![FetCityHouse.jpg](/images/FetCityHouse.jpg)
+
+
 On the other hand, I love the pizza at City House. I've had the Lamb Sausage, which isn't always on the menu, and the Belly Ham pizza. The mozzarella on the pizza is perfect. Honestly, I'd prefer the Belly Ham pizza over the pizzas at Ca'Momi which is an Italian restaurant I recently visited in Napa even though it has a Michelin star. 
 
 If you enjoy red meat, order the Painted Hills Tri Tip. It's a very tender meat full of flavor, especially with the red onions which fully enhances the overall taste of the dish. 
