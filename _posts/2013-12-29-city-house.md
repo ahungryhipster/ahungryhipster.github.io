@@ -29,7 +29,7 @@ The second pasta dish I've had is the Fettuccini with Lamb. I enjoyed the simpli
 ![FetCityHouse.jpg](/images/FetCityHouse.jpg)
 
 
-On the other hand, I love the pizza at City House. I've had the Lamb Sausage, which isn't always on the menu, and the Belly Ham pizza. The mozzarella on the pizza is perfect. Honestly, I'd prefer the Belly Ham pizza over the pizzas at Ca'Momi which is an Italian restaurant I recently visited in Napa even though it is Michelin star restaurant. 
+On the other hand, I love the pizza at City House. I've had the Lamb Sausage, which isn't always on the menu, and the Belly Ham pizza. The portions of mozzarella on the pizza is perfect. Honestly, I'd prefer the Belly Ham pizza over the pizzas at Ca'Momi which is an Italian restaurant I recently visited in Napa even though it is Michelin star restaurant. 
 
 ![BellyCityHouse.jpg](/images/BellyCityHouse.jpg)
 
