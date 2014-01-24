@@ -28,7 +28,11 @@ The second pasta dish I've had is the Fettuccini with Lamb. I enjoyed the simpli
 
 On the other hand, I love the pizza at City House. I've had the Lamb Sausage, which isn't always on the menu, and the Belly Ham pizza. The mozzarella on the pizza is perfect. Honestly, I'd prefer the Belly Ham pizza over the pizzas at Ca'Momi which is an Italian restaurant I recently visited in Napa even though it has a Michelin star. 
 
+![BellyCityHouse.jpg](/images/BellyCityHouse.jpg)
+
 If you enjoy red meat, order the Painted Hills Tri Tip. It's a very tender meat full of flavor, especially with the red onions which fully enhances the overall taste of the dish. 
+
+![TriCityHouse.jpg](/images/TriCityHouse.jpg)
 
 ##ALWAYS LEAVE ROOM FOR DESSERT
 Two things make me come back to City House: the people and the dessert. Ever since I've had the Chocolate Stout & Espresso Ice Box Cake, I haven't been able to stray away from it. The toffee brittle crumbs, caramel, and vanilla gelato that accompany it makes it a dessert you will be craving. Order it, you won't regret it. 
