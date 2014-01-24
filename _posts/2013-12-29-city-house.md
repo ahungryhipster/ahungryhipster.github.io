@@ -10,7 +10,7 @@ In light of the recent giving season, I wanted to highlight an individual that h
 
 ##DRINK
 Order a drink from Alisa. She is a _phenomenal_ bartender who knows the menu very well; you can't go wrong with any of her food or drink suggestions. She has a side project which includes vintage clothing and if you get on her good side, she might also share some of her favorite fashion spots in Nashville :)
-
+![SolomoonCityHouse.jpg](/images/SolomoonCityHouse.jpg)
 My go to drink is the Moose but pictured is the Solomon. 
 
 ##FOOD
@@ -35,4 +35,3 @@ Every single time, Andrew takes care of the dessert John & I order. We hate/love
 3. Belly Ham Pizza
 4. Painted Hills Tri Tip
 5. Chocolate Stout & Espresso Ice Box Cake
-
