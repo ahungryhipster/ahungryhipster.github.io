@@ -4,9 +4,12 @@ layout: post
 published: false
 title: City House
 comments: true
+tag: "City House, Nashville"
+image: CityHouseBanner.jpg
+description: In light of the recent giving season I wanted to highlight an individual that has continuously given...
 ---
 
-In light of the recent giving season, I wanted to highlight an individual that has continuously given to me and John: Andrew Wilkins. We met Andrew the first time I took John to City House. We walked in, asked for a table, and that was it. He didn't write down our name or number, and then we realized he was memorizing the order of all the people that were waiting. We made sure to compliment him and that was ultimately the beginning of our friendship with Andrew and our constant inclination to visit City House because of the wonderful staff.
+In light of the recent giving season, I wanted to highlight an individual that has continuously given to me and John: Andrew Wilkins. We met Andrew the first time I took John to [City House](http://cityhousenashville.com). We walked in, asked for a table, and that was it. He didn't write down our name or number, and then we realized he was memorizing the order of all the people that were waiting. We made sure to compliment him and that was ultimately the beginning of our friendship with Andrew and our constant inclination to visit City House because of the wonderful staff.
 
 ##DRINK
 Order a drink from Alisa. She is a _phenomenal_ bartender who knows the menu very well; you can't go wrong with any of her food or drink suggestions. She has a side project which includes vintage clothing and if you get on her good side, she might also share some of her favorite fashion spots in Nashville :)
