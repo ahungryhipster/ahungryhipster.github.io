@@ -10,11 +10,13 @@ In light of the recent giving season, I wanted to highlight an individual that h
 
 ##DRINK
 Order a drink from Alisa. She is a _phenomenal_ bartender who knows the menu very well; you can't go wrong with any of her food or drink suggestions. She has a side project which includes vintage clothing and if you get on her good side, she might also share some of her favorite fashion spots in Nashville :)
+
 ![SolomoonCityHouse.jpg](/images/SolomoonCityHouse.jpg)
 My go to drink is the Moose but pictured is the Solomon. 
 
 ##FOOD
 John frequently orders the Springer Mountain Half Chicken and it is very consistent. The chicken itself is always tender and juicy, which complements the crispy skin. The salsa verde and calabrian chiles served with the dish gives it a zesty spice that leaves you wanting more. It's a pretty safe choice, nothing too out of the ordinary. 
+
 
 I've ordered 2 of the pasta dishes at City House and I wouldn't order either again. The Bread Gnocchi isn't the typical, soft, tender, creamy gnocchi dish that I usually expect. It's on the tougher side and served with a lot less sauce to fully compliment the tougher consistency of the potato dumplings. 
 
