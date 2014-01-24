@@ -37,6 +37,8 @@ If you enjoy red meat, order the Painted Hills Tri Tip. It's a very tender meat 
 ##ALWAYS LEAVE ROOM FOR DESSERT
 Two things make me come back to City House: the people and the dessert. Ever since I've had the Chocolate Stout & Espresso Ice Box Cake, I haven't been able to stray away from it. The toffee brittle crumbs, caramel, and vanilla gelato that accompany it makes it a dessert you will be craving. Order it, you won't regret it. 
 
+![StoutCityHouse.jpg](/images/StoutCityHouse.jpg)
+
 Every single time, Andrew takes care of the dessert John & I order. We hate/love that he does it but it has begun the war of never ending gifts. He buys us dessert, we buy him bourbon. He's is a wonderful person and is the main reason why we love going to City House. 
 
 ##WHAT TO GET
