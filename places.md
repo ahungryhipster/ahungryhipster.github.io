@@ -9,6 +9,7 @@ image: barista.jpg
 >Restaurants I Enjoy
 
 |:---------------|:-------:|
+| <a href="http://the404nashville.com"> The 404 | <a href="http://www.yelp.com/biz/i-dream-of-weenie-nashville">I Dream of Weenie</a> 
 | <a href="http://www.yelp.com/biz/back-to-cuba-nashville">Back to Cuba</a>   | 	<a href="http://www.kotosushibar.com">	Koto Sushi</a>   |
 | <a href="http://www.burger-up.com">Burger Up</a>   | 	<a href="http://lockelandtable.com">Lockeland Table | 
 | <a href="http://caffenonna.com">Caffe Nonna</a>   | 	<a href="http://www.marcheartisanfoods.com">Marche</a>   |
@@ -20,7 +21,7 @@ image: barista.jpg
 | <a href="http://gabbysburgersandfries.com">Gabby's Burgers</a>   | <a href="http://rolfanddaughters.com">Rolf and Daughters</a>   |
 | <a href="http://www.hattieb.com">Hattie B's</a>   | <a href="https://thecatbirdseatrestaurant.com">The Catbird Seat</a>   |
 | <a href="http://www.husknashville.com">Husk</a>   | <a href="http://themadplatterrestaurant.com">The Mad Platter</a>   |
-| <a href="http://www.yelp.com/biz/i-dream-of-weenie-nashville">I Dream of Weenie</a>   | <a href="http://thesouthernnashville.com">The Southern</a>   |
+| <a href="http://thesouthernnashville.com">The Southern</a>   |
 {: rules="groups" style="width:93%"}
 
         
@@ -35,7 +36,7 @@ image: barista.jpg
 | <a href="http://www.crema-coffee.com">Crema</a>   | <a href="http://thegrilledcheeserietruck.com">The Grilled Cheeserie</a>   |
 | <a href="http://frothymonkey.com">Frothy Monkey</a>   | <a href="http://thesweetstash.com">The Sweet Stash</a>   |
 | <a href="http://www.hollandhousebarandrefuge.com">Holland House</a>   | <a href="http://www.thepattersonnashville.com">The Patterson House</a>   |
-| <a href="http://www.thejuicenashville.com">Juice</a>   | <a href="http://www.thepiedpipercreamery.com">The Pied Piper</a>   |
+| <a href="http://www.thejuicenashville.com">Juice Nashville</a>   | <a href="http://www.thepiedpipercreamery.com">The Pied Piper</a>   |
 | <a href="http://www.yelp.com/biz/las-paletas-gourmet-popsicles-nashville">Las Paletas</a>   | <a href="http://www.trubeehoney.com">TruBee Honey</a>   |
 | <a href="http://www.lazzaroli.com">Lazzaroli</a>   |    |
 {: rules="groups" style="width:100%"}
