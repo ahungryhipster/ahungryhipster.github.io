@@ -1,7 +1,7 @@
 ---
 category: articles
 layout: post
-published: false
+published: true
 title: City House
 comments: true
 tag: "City House, Nashville"
