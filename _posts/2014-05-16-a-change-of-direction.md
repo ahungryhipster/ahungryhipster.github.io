@@ -10,4 +10,5 @@ Sometimes, I forget that this is _my_ blog and that I can write about whatever I
 
 ##Cheers
 ![Cheers.jpg](/images/Cheers.jpg)
+
 So here's to a change of direction for A Hungry Hipster!
