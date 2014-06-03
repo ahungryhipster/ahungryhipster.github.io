@@ -1,7 +1,7 @@
 ---
 category: articles
 layout: post
-published: true
+published: false
 title: A Change of Direction
 comments: true
 tag: "change, cheers"
