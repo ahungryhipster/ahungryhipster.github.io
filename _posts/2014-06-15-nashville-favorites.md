@@ -9,6 +9,7 @@ comments: true
 ## Favorite place to grab a cup of joe
 
 7AM: JJ's, it's desolate, quaint, and the comfy couches make it so easy to settle in. Parking isn't usually an issue at that time which is _rare_ for JJs. 
+
 ![JJs.jpg](/images/JJs.jpg)
 Tip: if there's no spot in front, park in the Noshville lot behind, I've never gotten ticketed (shh!). 
 
