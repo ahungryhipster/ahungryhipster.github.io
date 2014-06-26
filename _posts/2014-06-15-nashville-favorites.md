@@ -35,4 +35,4 @@ TIP: Google Fiber at Starbucks? WHAT? Apparently in 2013, Starbucks ended their 
 
 Hope this was helpful. Any feedback is welcomed!
 
-@ahungryhipster
+[@ahungryhipster](https://twitter.com/ahungryhipster)
