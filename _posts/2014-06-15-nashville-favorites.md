@@ -17,8 +17,9 @@ Tip: if there's no spot in front, park in the Noshville lot behind, I've never g
 **2PM: Barista Parlor**, weekends are always busy but if you go at odd hours, you can always find a spot without feeling suffocated. Treat yourself, get a macaroon. 
 
 ![BaristaParlor.jpg](/images/BaristaParlor.jpg)
-![Macaroon.jpg](/images/Macaroon.jpg)
 Tip: Don't come here if you need an outlet. 
+
+![Macaroon.jpg](/images/Macaroon.jpg)
 
 6PM: Crema, parking can be a hurdle but the Cuban is worth it. It's the original, classic Nashville coffee shop, enough said. 
 Tip: Don't feel like dealing with parking? Go to Pinewood Social and visit their extension of Crema. 
