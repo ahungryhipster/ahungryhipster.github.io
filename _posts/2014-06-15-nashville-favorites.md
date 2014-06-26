@@ -8,12 +8,13 @@ comments: true
 
 ## Favorite place to grab a cup of joe
 
-7AM: JJ's, it's desolate, quaint, and the comfy couches make it so easy to settle in. Parking isn't usually an issue at that time which is _rare_ for JJs. 
+**7AM: JJ's**, it's desolate, quaint, and the comfy couches make it so easy to settle in. Parking isn't usually an issue at that time which is _rare_ for JJs. 
 
 ![JJs.jpg](/images/JJs.jpg)
 Tip: if there's no spot in front, park in the Noshville lot behind, I've never gotten ticketed (shh!). 
 
-2PM: Barista Parlor, weekends are always busy but if you go at odd hours, you can always find a spot without feeling suffocated. Treat yourself, get a macaroon. 
+
+**2PM: Barista Parlor**, weekends are always busy but if you go at odd hours, you can always find a spot without feeling suffocated. Treat yourself, get a macaroon. 
 
 ![BaristaParlor.jpg](/images/BaristaParlor.jpg)
 Tip: Don't come here if you need an outlet. 
