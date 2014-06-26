@@ -24,7 +24,6 @@ Tip: Don't come here if you need an outlet.
 
 **6PM: Crema**, parking can be a hurdle but it is worth it. It's the original, classic Nashville coffee shop, enough said. 
 
-![Crema.jpg](/images/Crema.jpg)
 Tip: Don't feel like dealing with parking? Go to Pinewood Social and visit their extension of Crema. 
 
 **12AM: Pinewood Social**, still craving some coffee? Pinewood Social closes at 1AM and the coffee bar is always open during hours of operations. 
