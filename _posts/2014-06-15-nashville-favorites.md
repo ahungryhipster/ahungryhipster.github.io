@@ -14,6 +14,7 @@ comments: true
 Tip: if there's no spot in front, park in the Noshville lot behind, I've never gotten ticketed (shh!). 
 
 2PM: Barista Parlor, weekends are always busy but if you go at odd hours, you can always find a spot without feeling suffocated. Treat yourself, get a macaroon. 
+
 Tip: Don't come here if you need an outlet. 
 
 6PM: Crema, parking can be a hurdle but the Cuban is worth it. It's the original, classic Nashville coffee shop, enough said. 
