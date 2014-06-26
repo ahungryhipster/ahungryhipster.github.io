@@ -17,7 +17,7 @@ image: coffeebanner.jpg
 Tip: if there's no spot in front, park in the Noshville lot behind, I've never gotten ticketed (shh!). 
 
 
-**2PM: Barista Parlor**, weekends are always busy. But if you go at odd hours, you can always find a spot without feeling suffocated. Treat yourself, get a macaroon. 
+**2PM: Barista Parlor**, weekends are always busy, but if you go at odd hours, you can always find a spot without feeling suffocated. Treat yourself, get a macaroon. 
 
 ![BP.jpg](/images/BP.jpg)
 Tip: Don't come here if you need an outlet. 
@@ -32,7 +32,7 @@ Tip: Don't feel like dealing with parking? Go to Pinewood Social and visit their
 ![candidpinewood.jpg](/images/candidpinewood.jpg)
 Tip: Don't expect to get work done here. The community table is great but the ambiance of the place won't let you be as productive as you hope for. 
 
-**Honorable Mention: Frothy Monkey**, oh I love this place. But the constant crowds make it always difficult to find a table with outlet and be productive. However, f you only need to pick something up _and_ have some time to spare, Frothy Monkey is a great option. 
+**Honorable Mention: Frothy Monkey**, oh I love this place, but the constant crowds make it always difficult to find a table with outlet and be productive. However, f you only need to pick something up _and_ have some time to spare, Frothy Monkey is a great option. 
 
 TIP: Google Fiber at Starbucks? WHAT? Apparently in 2013, Starbucks ended their relationship with AT&T and partnered with Google to enhance their wifi. Well, it was _rumoured_ to me that one of the Starbucks on West End has it. Google Fiber in Nashville? Yes, please. We all know [Comcast is literally the worst](http://consumerist.com/2014/04/08/congratulations-to-comcast-your-2014-worst-company-in-america/).
 
