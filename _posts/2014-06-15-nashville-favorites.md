@@ -4,7 +4,8 @@ layout: post
 published: false
 title: Nashville Favorites
 comments: true
-tag: "nashville, coffee, coffee shops"
+description: Favorite place to grab a cup of joe
+tag: "Nashville, coffee, coffee shops"
 image: coffeebanner.jpg
 ---
 
