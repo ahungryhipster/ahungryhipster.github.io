@@ -28,7 +28,7 @@ Tip: Don't feel like dealing with parking? Go to Pinewood Social and visit their
 
 **12AM: Pinewood Social**, still craving some coffee? Pinewood Social closes at 1AM and the coffee bar is always open during hours of operations. 
 
-![pinewoodbanner.jpg](/images/pinewoodbanner.jpg)
+![candidpinewood.jpg](/images/candidpinewood.jpg)
 Tip: Don't expect to get work done here. The community table is great but the ambiance of the place won't let you be as productive as you hope for. 
 
 **Honorable Mention: Frothy Monkey**, oh I love this place but the constant crowds make it always difficult to find a table, an outlet, and be productive. But if you only need to pick something up _and_ have some time to spare, Frothy Monkey is a great option. 
