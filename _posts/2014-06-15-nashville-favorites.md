@@ -34,3 +34,7 @@ Tip: Don't expect to get work done here. The community table is great but the am
 **Honorable Mention: Frothy Monkey**, oh I love this place but the constant crowds make it always difficult to find a table, an outlet, and be productive. But if you only need to pick something up _and_ have some time to spare, Frothy Monkey is a great option. 
 
 TIP: Google Fiber at Starbucks? WHAT? Apparently in 2013, Starbucks ended their relationship with AT&T and partnered with Google to enhance their wifi. Well, it was _rumoured_ to me that one of the Starbucks on West End has it. Google Fiber in Nashville? Yes please. We all know Comcast is one of the worst cable companies.
+
+Hope this was helpful. Any feedback is welcomed!
+
+@ahungryhipster
