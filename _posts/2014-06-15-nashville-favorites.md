@@ -1,7 +1,7 @@
 ---
 category: articles
 layout: post
-published: false
+published: true
 title: Nashville Favorites
 comments: true
 description: Favorite place to grab a cup of joe
