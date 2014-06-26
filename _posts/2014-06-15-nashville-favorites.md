@@ -2,7 +2,7 @@
 category: articles
 layout: post
 published: true
-title: Nashville Favorites
+title: Nashville Coffee Favorites
 comments: true
 description: Favorite place to grab a cup of joe
 tag: "Nashville, coffee, coffee shops"
