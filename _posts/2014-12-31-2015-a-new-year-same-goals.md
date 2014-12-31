@@ -2,7 +2,7 @@
 category: articles
 layout: post
 published: false
-title: "2015, A New Year, Same Goals"
+title: "2015: A New Year, Same Goals"
 comments: true
 ---
 
