@@ -8,4 +8,4 @@ comments: true
 
 ## New Years
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+For some reason we believe that a new year gives us a new chance, a new opportunity to be who we want to become. 
